@@ -1,5 +1,4 @@
 # databricks-demo-delta-streaming
-Demo of Structured Streaming with Delta Lake
 
 This project contains Notebooks and other resources for a __Databricks Delta Lake Structured Streaming demo__.
 
